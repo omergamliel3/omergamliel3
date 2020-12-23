@@ -51,8 +51,9 @@
 <br />
 
 <details>
-  <summary>:zap: Most Used Languages</summary>
+  <summary>:zap: Top Langs</summary>
 
+<br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omergamliel3)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
@@ -62,7 +63,8 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-
+  
+  <br />
   <img align="left" alt="Omer's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=omergamliel3&show_icons=true&hide_border=true&theme=dark" />
 
 </details>
