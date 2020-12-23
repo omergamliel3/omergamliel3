@@ -7,7 +7,7 @@
 
 <br />
 
-## I'm a Self-taught developer, Football and Sport enthusiast
+## I'm a Developer, Football and Sport enthusiast
 
 - 🌱 I’m currently learning python and node js
 - 👯 I’m looking to collaborate with other developers
