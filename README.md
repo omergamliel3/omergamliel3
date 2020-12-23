@@ -1,19 +1,16 @@
 ### Hi there, I'm Omer 👋
 
+
+[<img align="left" alt="Omer Gamliel | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="omer_gamliel | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="omer_gamliel | Stackoverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][stackoverflow]
+
 ## I'm a Self-taught developer, Football and Sport enthusiast
 
 - 🌱 I’m currently learning python and node js
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2021 Goals: Contribute to Open Source projects
 - ⚡ Fun fact: I love to practice calisthenics
-
-### Connect with me:
-
-[<img align="left" alt="Omer Gamliel | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="omer_gamliel | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="omer_gamliel | Stackoverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][stackoverflow]
-
-<br />
 
 ### Languages and Tools:
 
