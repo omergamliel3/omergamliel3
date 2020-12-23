@@ -1,6 +1,6 @@
 ### Hi there, I'm Omer 👋
 
-## I'm a Self-taught developer, Football addict, and Sport enthusiast
+## I'm a Self-taught developer, Football and Sport enthusiast
 
 - 🌱 I’m currently learning python and node js
 - 👯 I’m looking to collaborate with other developers
@@ -34,26 +34,29 @@
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
 
-<br />
-<br />
+---
 
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#14](https://github.com/codeSTACKr/codeSTACKr/pull/14) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
-2. 🗣 Commented on [#14](https://github.com/codeSTACKr/codeSTACKr/issues/14) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
-3. ❌ Closed PR [#7](https://github.com/codeSTACKr/codeSTACKr/pull/7) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
-4. 🎉 Merged PR [#6](https://github.com/codeSTACKr/codeSTACKr/pull/6) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
-5. 💪 Opened PR [#259](https://github.com/florinpop17/app-ideas/pull/259) in [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas)
 <!--END_SECTION:activity-->
 
+<br />
+<br />
+
 </details>
+
+<br />
+<br />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omergamliel3)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Omer's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=omergamliel3&show_icons=true&hide_border=true" />
+  <img align="left" alt="Omer's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=omergamliel3&show_icons=true&hide_border=true&theme=dark" />
 
 </details>
 
