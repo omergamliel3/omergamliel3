@@ -50,8 +50,15 @@
 <br />
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omergamliel3)](https://github.com/anuraghazra/github-readme-stats)    <img align="left" alt="Omer's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=omergamliel3&show_icons=true&hide_border=true&theme=dark" />
+<details>
+  <summary>:zap: GitHub Stats</summary>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omergamliel3)](https://github.com/anuraghazra/github-readme-stats)
+
+</details>
+
+<br />
+<br />
 
 <details>
   <summary>:zap: GitHub Stats</summary>
