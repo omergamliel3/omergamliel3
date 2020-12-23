@@ -66,7 +66,7 @@
   <summary>:zap: GitHub Stats</summary>
   
   <br />
-  <img align="left" alt="Omer's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=omergamliel3&show_icons=true&hide_border=true&theme=dark&hide=pr,issues,contribs" />
+  <img align="left" alt="Omer's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=omergamliel3&show_icons=true&hide_border=true&theme=dark&hide=prs,issues,contribs" />
 
 </details>
 
