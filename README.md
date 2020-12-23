@@ -36,16 +36,14 @@
 
 ---
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=omergamliel3&show_icons=true&include_all_commits=true&theme=dark&hide=prs,issues,contribs" alt="Anurag's github stats" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omergamliel3&layout=compact&theme=dark" />
+</a>
 
-<br />
-<br />
-
-</details>
+---
 
 <br />
 <br />
@@ -67,6 +65,17 @@
   
   <br />
   <img align="left" alt="Omer's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=omergamliel3&show_icons=true&hide_border=true&theme=dark&hide=prs,issues,contribs" />
+
+</details>
+
+<details>
+  <summary>:zap: Recent GitHub Activity</summary>
+  
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+<br />
+<br />
 
 </details>
 
