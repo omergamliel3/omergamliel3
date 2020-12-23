@@ -6,6 +6,7 @@
 [<img align="left" alt="Omer Gamliel | Stackoverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][stackoverflow]
 
 
+
 ## I'm a Self-taught developer, Football and Sport enthusiast
 
 - 🌱 I’m currently learning python and node js
