@@ -54,6 +54,7 @@
   <summary>:zap: Top Langs</summary>
 
 <br />
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omergamliel3)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
