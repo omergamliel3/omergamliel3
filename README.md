@@ -7,6 +7,8 @@
 
 
 
+
+
 ## I'm a Self-taught developer, Football and Sport enthusiast
 
 - 🌱 I’m currently learning python and node js
