@@ -5,6 +5,7 @@
 [<img align="left" alt="omer_gamliel | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="omer_gamliel | Stackoverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][stackoverflow]
 
+
 ## I'm a Self-taught developer, Football and Sport enthusiast
 
 - 🌱 I’m currently learning python and node js
