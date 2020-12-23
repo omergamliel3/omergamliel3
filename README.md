@@ -33,22 +33,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omergamliel3&layout=compact&theme=dark" />
 </a>
 
----
-
-<br />
-<br />
-
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-<br />
-<br />
-
-</details>
-
 [instagram]: https://www.instagram.com/omer_gamliel
 [linkedin]: https://www.linkedin.com/in/omer-gamliel-6a813a188/
 [stackoverflow]: https://stackoverflow.com/users/11000728/omer-gamliel?tab=profile
