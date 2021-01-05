@@ -9,7 +9,7 @@
 
 ## I'm a Self-taught developer, Football and Sport enthusiast
 
-- 🌱 I’m currently learning python and node js
+- 🌱 I’m currently learning Kotlin Android development
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2021 Goals: Contribute to Open Source projects
 - ⚡ Fun fact: I love to practice calisthenics
