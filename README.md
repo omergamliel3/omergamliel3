@@ -1,6 +1,5 @@
 ### Hi there, I'm Omer 👋
 
-
 [<img align="left" alt="Omer Gamliel | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="omer_gamliel | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="Omer Gamliel | Stackoverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][stackoverflow]
@@ -9,7 +8,7 @@
 
 ## I'm a Developer, Football and Sport enthusiast
 
-- 🌱 I’m currently improving my problem-solving skills
+- 🌱 I’m currently learning Data Structures and Algorithms
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2021 Goals: Contribute to Open Source projects
 - ⚡ Fun fact: I love to practice calisthenics
@@ -36,4 +35,3 @@
 [instagram]: https://www.instagram.com/omer_gamliel
 [linkedin]: https://www.linkedin.com/in/omer-gamliel-6a813a188/
 [stackoverflow]: https://stackoverflow.com/users/11000728/omer-gamliel?tab=profile
-
