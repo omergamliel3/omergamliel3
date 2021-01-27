@@ -8,9 +8,9 @@
 
 ## I'm a Developer, Football and Sport enthusiast
 
-- 🌱 I’m currently learning Data Structures and Algorithms
+- 🌱 I’m currently developing mobile apps with Flutter
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2021 Goals: Contribute to Open Source projects
+- 🥅 2021 Goals: To find my first dev job
 - ⚡ Fun fact: I love to practice calisthenics
 
 ### Languages and Tools:
