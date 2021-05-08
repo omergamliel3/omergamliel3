@@ -1,5 +1,9 @@
 ### Hi there, I'm Omer 👋
 
+## Currently working as a Full Stack Software developer.
+
+<br />
+
 [<img align="left" alt="Omer Gamliel | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
