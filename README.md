@@ -1,6 +1,6 @@
 ### Hi there, I'm Omer 👋
 
-#### - Currently working as a Full Stack Software developer.
+#### Currently working as a Full Stack Software developer
 
 <br />
 
